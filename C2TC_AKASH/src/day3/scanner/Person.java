@@ -1,12 +1,16 @@
-package day3;
+package day3.scanner;
 
 public class Person {
 	private String name;
 	private int income;
-	
 	private String gender;
 	private int age;
 	private int tax;
+	@Override
+	public String toString() {
+		return "Person [name=" + name + ", income=" + income + ", gender=" + gender + ", age=" + age + ", tax=" + tax
+				+ "]";
+	}
 	public String getName() {
 		return name;
 	}
@@ -37,9 +41,5 @@ public class Person {
 	public void setTax(int tax) {
 		this.tax = tax;
 	}
-	@Override
-	public String toString() {
-		return "Person [name=" + name + ", income=" + income + ", gender=" + gender + ", age=" + age + ", tax=" + tax
-				+ "]";
-	}
+
 }

@@ -1,5 +1,7 @@
-package day3;
+package day3.scanner;
 import java.util.*;
+
+import day3.scanner.Person;
 
 public class PersonDemo {
 

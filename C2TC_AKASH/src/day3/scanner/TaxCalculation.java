@@ -1,4 +1,6 @@
-package day3;
+package day3.scanner;
+
+import day3.scanner.Person;
 
 public class TaxCalculation {
 
