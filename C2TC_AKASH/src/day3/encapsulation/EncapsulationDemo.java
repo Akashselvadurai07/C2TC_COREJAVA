@@ -1,4 +1,4 @@
-package day3.encapsulation;
+package day10;
 
 public class EncapsulationDemo {
 
