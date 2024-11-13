@@ -1,6 +1,6 @@
 //Program to demonstrate Multiple catch block
 
-package com.tnsif.dayeleven.v1;
+package dayeleven.v1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

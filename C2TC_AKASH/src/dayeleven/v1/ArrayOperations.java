@@ -1,5 +1,5 @@
 //Program to define Array Operations
-package com.tnsif.dayeleven.v1;
+package dayeleven.v1;
 
 public class ArrayOperations {
 

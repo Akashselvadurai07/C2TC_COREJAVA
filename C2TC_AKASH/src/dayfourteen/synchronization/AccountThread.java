@@ -1,5 +1,5 @@
 //Program to demonstrate Thread Synchronization - AccountThread Class
-package com.tnsif.dayfourteen.synchronization;
+package dayfourteen.synchronization;
 
 public class AccountThread extends Thread{
 	private Account acc;

@@ -1,5 +1,5 @@
 //Program to demonstrate nested Try Catch Block
-package com.tnsif.dayeleven.v1;
+package dayeleven.v1;
 
 public class NestedTryBlockEx {
 	public static int divide(int x, int y) {

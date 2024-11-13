@@ -1,5 +1,5 @@
 //program to demonstrate try catch block
-package com.tnsif.dayeleven.trycatch;
+package dayeleven.trycatch;
 
 public class TryCatchDemo {
 public static void main(String[] args) {
